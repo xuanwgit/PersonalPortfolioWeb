@@ -20,6 +20,19 @@ permalink: /projects/
   - [Backend API](https://spitifo-backend.onrender.com)
 - **[View Project on GitHub](https://github.com/xuanwgit/Spitifo-Music-App-React)**
 
+### WearFamily E-Commerce Platform
+- **Technology Stack:** PHP (Laravel), Blade, CSS, JavaScript, Vue.js, Docker
+- **Description:** Capstone project for Web Development 1 class - A full-stack e-commerce application built with PHP and Laravel framework following MVC architecture.
+- **Key Features:**
+  - MVC architectural pattern
+  - Laravel-powered backend
+  - Blade templating engine
+  - Responsive UI design
+  - Shopping cart system
+  - User authentication
+  - Product management
+- **[View Project on GitHub](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD)**
+
 ### Personal Portfolio Website
 - **Technology Stack:** Jekyll, HTML, CSS, JavaScript
 - **Description:** A responsive portfolio website built using Jekyll and GitHub Pages
@@ -38,9 +51,10 @@ permalink: /projects/
 
 ## Skills
 
-- **Programming Languages:** JavaScript, HTML5, CSS3
-- **Web Technologies:** React.js, Node.js, Express.js, MongoDB
-- **Frameworks & Libraries:** Bootstrap, React Bootstrap, JWT, Axios
+- **Programming Languages:** JavaScript, PHP, HTML5, CSS3
+- **Web Technologies:** React.js, Node.js, Express.js, MongoDB, Laravel
+- **Frameworks & Libraries:** Bootstrap, React Bootstrap, JWT, Axios, Vue.js
+- **Template Engines:** Blade
 - **Cloud Services:** AWS S3
-- **Tools & Platforms:** Git, GitHub, VS Code, Render
-- **Other Skills:** RESTful APIs, Authentication & Authorization, Responsive Design 
+- **Tools & Platforms:** Git, GitHub, VS Code, Render, Docker
+- **Other Skills:** RESTful APIs, Authentication & Authorization, Responsive Design, E-commerce Development, MVC Architecture 
