@@ -33,21 +33,23 @@ permalink: /projects/
   - Product management
 - **[View Project on GitHub](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD)**
 
+### KeepThemBusy Educational Platform
+- **Technology Stack:** HTML5, JavaScript, CSS3
+- **Description:** An interactive educational website designed to provide engaging activities and learning experiences for children, featuring games, crafts, and educational content.
+- **Key Features:**
+  - Interactive games and activities
+  - Educational content management
+  - Shopping cart functionality
+  - Multi-language support (English/French)
+  - Responsive design for all devices
+  - User activity tracking
+  - Parent resources and guides
+- **[View Project on GitHub](https://github.com/xuanwgit/KeepThemBusy_DDWY)**
+
 ### Personal Portfolio Website
 - **Technology Stack:** Jekyll, HTML, CSS, JavaScript
 - **Description:** A responsive portfolio website built using Jekyll and GitHub Pages
 - **[View Project](https://github.com/xuanwgit/PersonalPortfolioWeb)**
-
-<!-- Add more projects as needed -->
-### Project 2
-- **Technology Stack:** [Add technologies used]
-- **Description:** [Add project description]
-- **[View Project](#)**
-
-### Project 3
-- **Technology Stack:** [Add technologies used]
-- **Description:** [Add project description]
-- **[View Project](#)**
 
 ## Skills
 
@@ -57,4 +59,4 @@ permalink: /projects/
 - **Template Engines:** Blade
 - **Cloud Services:** AWS S3
 - **Tools & Platforms:** Git, GitHub, VS Code, Render, Docker
-- **Other Skills:** RESTful APIs, Authentication & Authorization, Responsive Design, E-commerce Development, MVC Architecture 
+- **Other Skills:** RESTful APIs, Authentication & Authorization, Responsive Design, E-commerce Development, MVC Architecture, Educational Content Development 
