@@ -6,45 +6,59 @@ permalink: /about/
 
 ## About Me
 
-Hello! I'm Vivian Wang, a passionate software developer with a keen interest in web development and creating user-friendly applications. I specialize in building responsive and accessible web applications using modern technologies.
+Hello! I'm Vivian Wang, a versatile full-stack developer with a passion for creating innovative web applications. I specialize in both modern JavaScript frameworks and PHP-based solutions, with experience ranging from music streaming platforms to e-commerce systems and educational applications.
 
 ### Professional Background
 
-I have experience in:
-- Full-stack web development
-- Building responsive user interfaces
-- Version control and collaborative development
-- Problem-solving and debugging
+I have comprehensive experience in:
+- Full-stack web development using MERN stack (MongoDB, Express.js, React, Node.js)
+- PHP development with Laravel framework and MVC architecture
+- Building responsive and accessible web applications
+- Cloud services integration (AWS S3)
+- E-commerce solutions and payment systems
+- Educational platform development
+- Multilingual application development
 
-### Education & Certifications
+### Technical Expertise
 
-[Add your education and certifications here]
+#### Frontend Development
+- React.js, Vue.js
+- HTML5, CSS3, JavaScript
+- Bootstrap & React Bootstrap
+- Responsive Design
+- User Interface/Experience (UI/UX)
 
-### Interests
+#### Backend Development
+- Node.js & Express.js
+- PHP & Laravel
+- RESTful API Design
+- MongoDB & Database Management
+- Authentication & Authorization (JWT)
 
-Outside of coding, I enjoy:
-- Learning new technologies
-- Contributing to open-source projects
-- [Add your other interests]
+#### DevOps & Tools
+- Git & GitHub
+- Docker Containerization
+- AWS Cloud Services
+- VS Code
+- Render Platform
+
+### Recent Projects
+
+I've successfully delivered several significant projects:
+- A Spotify-inspired music streaming application using MERN stack
+- An e-commerce platform using Laravel/PHP with MVC architecture
+- An educational platform for children with multilingual support
+- Various responsive web applications with modern UI/UX
 
 ### Current Focus
 
-I'm currently focusing on expanding my knowledge in:
-- Modern web frameworks
-- Cloud technologies
-- Best practices in software development
+I'm currently expanding my expertise in:
+- Cloud-native applications
+- Microservices architecture
+- Advanced security implementations
+- Performance optimization
+- Modern frontend frameworks
 
-Feel free to check out my [projects](/projects/) or [get in touch](/contact/) if you'd like to collaborate!
+### Let's Connect
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm always interested in challenging projects and opportunities to learn and grow. Feel free to check out my [projects](/projects/) or [get in touch](/contact/) if you'd like to collaborate!
