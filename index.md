@@ -7,27 +7,55 @@
 #
 layout: home
 title: Vivian Wang
+subtitle: Full-Stack Developer
 ---
 
-## Full-Stack Developer
+I build modern web applications using MERN stack, Laravel, and cloud technologies.
 
-Building modern web applications with MERN stack, Laravel, and cloud technologies.
+## Featured Work
 
-### Featured Work
+### Superwish E-Commerce Platform
+![Superwish Preview](/assets/images/superwish-preview.jpg)
+A modern e-commerce platform for educational toys built with ASP.NET Core 6.0, PostgreSQL, and Azure Blob Storage.
+- ASP.NET Core 6.0
+- PostgreSQL
+- Azure Blob Storage
+- Bootstrap 5
+- Entity Framework Core
 
-#### Spitifo Music App
-![Spitifo Music App Screenshot](/assets/images/spitifo-preview.jpg)
-*Music Streaming Platform • MERN Stack + AWS*
-[Live Demo](https://xuanwgit.github.io/Spitifo-Music-App-React) | [View Details →](/projects#spitifo-music-app)
+[View Project Details](/projects/#superwish)
 
-#### WearFamily E-Commerce
-![WearFamily Screenshot](/assets/images/wearfamily-preview.jpg)
-*E-Commerce Platform • Laravel + Vue.js*
-[View Details →](/projects#wearfamily-e-commerce)
+### Spitifo Music App
+![Spitifo Preview](/assets/images/spitifo-preview.jpg)
+A Spotify-inspired streaming platform built with MERN stack and AWS integration.
+- React
+- Node.js
+- MongoDB
+- AWS S3
+- JWT Authentication
 
-#### KeepThemBusy Educational Platform
-![KeepThemBusy Screenshot](/assets/images/keepthembusy-preview.jpg)
-*Educational Platform • HTML5 + JavaScript*
-[View Details →](/projects#keepthembusy-educational-platform)
+[Live Demo](https://spitifo.herokuapp.com) | [View Project Details](/projects/#spitifo)
 
-[View All Projects](/projects) | [About Me](/about) | [Contact](/contact)
+### WearFamily E-Commerce
+![WearFamily Preview](/assets/images/wearfamily-preview.jpg)
+A full-featured e-commerce platform using Laravel/PHP with MVC architecture.
+- Laravel
+- PHP
+- MySQL
+- Bootstrap
+- Stripe Integration
+
+[View Project Details](/projects/#wearfamily)
+
+### KeepThemBusy Educational Platform
+![KeepThemBusy Preview](/assets/images/keepthembusy-preview.jpg)
+An interactive educational website with multilingual support and engaging activities.
+- React
+- Node.js
+- MongoDB
+- i18n
+- Material-UI
+
+[View Project Details](/projects/#keepthembusy)
+
+[View All Projects](/projects) | [Learn More About Me](/about) | [Get in Touch](/contact)
