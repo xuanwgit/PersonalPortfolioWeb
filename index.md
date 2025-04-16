@@ -23,7 +23,7 @@ A modern e-commerce platform for educational toys built with ASP.NET Core 6.0, P
 - Bootstrap 5
 - Entity Framework Core
 
-[View Project Details](/projects/#superwish)
+[View Documentation](https://xuanwgit.github.io/Superwish_FSD04_AppDevII_ASP.NET_Project/) | [View Project Details](/projects/#superwish)
 
 ### Spitifo Music App
 ![Spitifo Preview](/assets/images/spitifo-preview.jpg)
