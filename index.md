@@ -26,15 +26,15 @@ I build modern web applications using MERN stack, Laravel, and cloud technologie
 [📝 Documentation](https://xuanwgit.github.io/Superwish_FSD04_AppDevII_ASP.NET_Project/) | [💻 Source Code](https://github.com/xuanwgit/Superwish_FSD04_AppDevII_ASP.NET_Project) | [More Details](/projects/#superwish)
 
 ### Spitifo Music App
-![Spitifo Music App](https://raw.githubusercontent.com/xuanwgit/PersonalPortfolioWeb/master/assets/images/spitifo-preview.jpg)
-*A sophisticated music streaming platform built with MERN stack and AWS integration.*
-- React
-- Node.js
+![Spitifo Music App](https://raw.githubusercontent.com/xuanwgit/PersonalPortfolioWeb/master/assets/images/Spitifo-homepage.jpg)
+*A sophisticated music streaming platform with a sleek, Spotify-inspired design.*
+- React & Node.js
 - MongoDB
 - AWS S3
 - JWT Authentication
+- Dark Theme UI
 
-[📝 Documentation](https://xuanwgit.github.io/Spitifo-Music-App-React/) | [💻 Source Code](https://github.com/xuanwgit/Spitifo-Music-App-React) | [🌐 Live Demo](https://xuanwgit.github.io/Spitifo-Music-App-React) | [More Details](/projects/#spitifo)
+[🌐 Live Demo](https://xuanwgit.github.io/Spitifo-Music-App-React/#/) | [💻 Source Code](https://github.com/xuanwgit/Spitifo-Music-App-React) | [More Details](/projects/#spitifo)
 
 ### WearFamily E-Commerce
 ![WearFamily Preview](/assets/images/wearfamily-preview.jpg)
