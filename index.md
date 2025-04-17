@@ -15,9 +15,8 @@ I build modern web applications using MERN stack, Laravel, and cloud technologie
 ## Featured Work
 
 ### Superwish E-Commerce Platform
-![Superwish Preview](/assets/images/superwish-preview.jpg)
-![Superwish Homepage](/assets/images/superwish-homepage.jpg)
-A modern e-commerce platform for educational toys built with ASP.NET Core 6.0, PostgreSQL, and Azure Blob Storage.
+![Superwish E-Commerce Platform](/assets/images/superwish-homepage.jpg)
+*A modern e-commerce platform for educational toys built with ASP.NET Core 6.0, PostgreSQL, and Azure Blob Storage.*
 - ASP.NET Core 6.0
 - PostgreSQL
 - Azure Blob Storage
@@ -27,8 +26,8 @@ A modern e-commerce platform for educational toys built with ASP.NET Core 6.0, P
 [View Documentation](https://xuanwgit.github.io/Superwish_FSD04_AppDevII_ASP.NET_Project/) | [View Project Details](/projects/#superwish)
 
 ### Spitifo Music App
-![Spitifo Preview](/assets/images/spitifo-preview.jpg)
-A Spotify-inspired streaming platform built with MERN stack and AWS integration.
+![Spitifo Music App](/assets/images/spitifo-preview.jpg)
+*A Spotify-inspired streaming platform built with MERN stack and AWS integration.*
 - React
 - Node.js
 - MongoDB
