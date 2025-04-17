@@ -24,21 +24,21 @@ permalink: /projects/
   - [🎥 Demo Video](#) - Coming soon
 
 ### Spitifo Music App {#spitifo}
-![Spitifo Music App](https://raw.githubusercontent.com/xuanwgit/PersonalPortfolioWeb/master/assets/images/spitifo-preview.jpg)
+![Spitifo Music App](https://raw.githubusercontent.com/xuanwgit/PersonalPortfolioWeb/master/assets/images/Spitifo-homepage.jpg)
 - **Technology Stack:** MERN Stack (MongoDB, Express.js, React, Node.js), AWS S3, Bootstrap, JWT
-- **Description:** A sophisticated music streaming platform that combines modern web technologies with an intuitive user interface, providing users with a seamless music streaming experience.
+- **Description:** A sophisticated music streaming platform that combines modern web technologies with an intuitive user interface. Features a sleek, Spotify-inspired design with album management and music streaming capabilities.
 - **Key Features:**
   - User authentication with JWT
-  - Album management and music streaming
-  - AWS S3 integration for file storage
-  - Playlist management
-  - Progress tracking
-  - Shuffle and repeat options
-  - Responsive UI with Bootstrap
+  - Album creation and management
+  - Music streaming with player controls
+  - Featured albums showcase
+  - Like/favorite functionality
+  - Responsive dark theme UI
+  - AWS S3 for media storage
 - **Project Links:**
-  - [📝 Documentation](https://xuanwgit.github.io/Spitifo-Music-App-React/) - Detailed project overview and features
+  - [🌐 Live Demo](https://xuanwgit.github.io/Spitifo-Music-App-React/#/) - Experience the application
   - [💻 Source Code](https://github.com/xuanwgit/Spitifo-Music-App-React) - View the project on GitHub
-  - [🌐 Live Demo](https://xuanwgit.github.io/Spitifo-Music-App-React) - Try the application
+  - [📝 Documentation](https://xuanwgit.github.io/Spitifo-Music-App-React/) - Project overview and features
   - [🔧 API Backend](https://spitifo-backend.onrender.com) - Backend service endpoint
 
 ### WearFamily E-Commerce Platform
