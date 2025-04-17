@@ -18,8 +18,9 @@ permalink: /projects/
   - Admin dashboard for inventory management
   - Secure payment processing
   - Azure Blob Storage for media files
-- **Documentation:** [View Project Documentation](https://xuanwgit.github.io/Superwish_FSD04_AppDevII_ASP.NET_Project/)
-- **Source Code:** [View on GitHub](https://github.com/xuanwgit/Superwish_FSD04_AppDevII_ASP.NET_Project)
+- **Links:**
+  - [View Project Documentation](https://xuanwgit.github.io/Superwish_FSD04_AppDevII_ASP.NET_Project/)
+  - [GitHub Repository](https://github.com/xuanwgit/Superwish_FSD04_AppDevII_ASP.NET_Project)
 
 ### Spitifo Music App
 - **Technology Stack:** MERN Stack (MongoDB, Express.js, React, Node.js), AWS S3, Bootstrap, JWT
