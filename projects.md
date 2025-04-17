@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Featured Projects
 
-### Superwish E-Commerce Platform
+### Superwish E-Commerce Platform {#superwish}
 ![Superwish Homepage](https://raw.githubusercontent.com/xuanwgit/PersonalPortfolioWeb/master/assets/images/superwish-homepage.jpg)
 - **Technology Stack:** ASP.NET Core 6.0, PostgreSQL, Azure Blob Storage, Bootstrap 5, Entity Framework Core
 - **Description:** A modern e-commerce platform specializing in high-quality, educational, and entertaining toys for children, built with ASP.NET Core and PostgreSQL.
@@ -19,7 +19,7 @@ permalink: /projects/
   - Secure payment processing
   - Azure Blob Storage for media files
 - **Documentation:** [View Project Documentation](https://xuanwgit.github.io/Superwish_FSD04_AppDevII_ASP.NET_Project/)
-- **[View Project on GitHub](https://github.com/xuanwgit/Superwish_FSD04_AppDevII_ASP.NET_Project)**
+- **Source Code:** [View on GitHub](https://github.com/xuanwgit/Superwish_FSD04_AppDevII_ASP.NET_Project)
 
 ### Spitifo Music App
 - **Technology Stack:** MERN Stack (MongoDB, Express.js, React, Node.js), AWS S3, Bootstrap, JWT

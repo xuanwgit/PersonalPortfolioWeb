@@ -23,7 +23,7 @@ I build modern web applications using MERN stack, Laravel, and cloud technologie
 - Bootstrap 5
 - Entity Framework Core
 
-[View Documentation](https://xuanwgit.github.io/Superwish_FSD04_AppDevII_ASP.NET_Project/) | [View Project Details](/projects/#superwish)
+[View Documentation](https://xuanwgit.github.io/Superwish_FSD04_AppDevII_ASP.NET_Project/) | [View Source Code](https://github.com/xuanwgit/Superwish_FSD04_AppDevII_ASP.NET_Project) | [View Project Details](/projects/#superwish)
 
 ### Spitifo Music App
 ![Spitifo Music App](/assets/images/spitifo-preview.jpg)
