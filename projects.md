@@ -36,10 +36,9 @@ permalink: /projects/
   - Responsive dark theme UI
   - AWS S3 for media storage
 - **Project Links:**
-  - [🌐 Live Demo](https://xuanwgit.github.io/Spitifo-Music-App-React/#/) - Experience the application
+  - [🌐 Live Demo](https://xuanwgit.github.io/Spitifo-Music-App-React/) - Experience the application
   - [💻 Source Code](https://github.com/xuanwgit/Spitifo-Music-App-React) - View the project on GitHub
   - [📝 Documentation](https://xuanwgit.github.io/Spitifo-Music-App-React/) - Project overview and features
-  - [🔧 API Backend](https://spitifo-backend.onrender.com) - Backend service endpoint
 
 ### WearFamily E-Commerce Platform
 - **Technology Stack:** PHP (Laravel), Blade, CSS, JavaScript, Vue.js, Docker
