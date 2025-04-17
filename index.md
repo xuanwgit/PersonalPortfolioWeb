@@ -15,7 +15,7 @@ I build modern web applications using MERN stack, Laravel, and cloud technologie
 ## Featured Work
 
 ### Superwish E-Commerce Platform
-![Superwish E-Commerce Platform](/assets/images/superwish-homepage.jpg)
+![Superwish E-Commerce Platform](https://raw.githubusercontent.com/xuanwgit/PersonalPortfolioWeb/master/assets/images/superwish-homepage.jpg)
 *A modern e-commerce platform for educational toys built with ASP.NET Core 6.0, PostgreSQL, and Azure Blob Storage.*
 - ASP.NET Core 6.0
 - PostgreSQL

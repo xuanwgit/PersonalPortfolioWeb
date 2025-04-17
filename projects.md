@@ -7,7 +7,7 @@ permalink: /projects/
 ## Featured Projects
 
 ### Superwish E-Commerce Platform
-![Superwish Homepage](/assets/images/superwish-homepage.jpg)
+![Superwish Homepage](https://raw.githubusercontent.com/xuanwgit/PersonalPortfolioWeb/master/assets/images/superwish-homepage.jpg)
 - **Technology Stack:** ASP.NET Core 6.0, PostgreSQL, Azure Blob Storage, Bootstrap 5, Entity Framework Core
 - **Description:** A modern e-commerce platform specializing in high-quality, educational, and entertaining toys for children, built with ASP.NET Core and PostgreSQL.
 - **Key Features:**
