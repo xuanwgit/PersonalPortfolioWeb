@@ -53,7 +53,7 @@ permalink: /projects/
   - User authentication
   - Product management
 - **Project Links:**
-  - [🌐 Live Demo](https://wearfamily.herokuapp.com/) | [💻 Source Code](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD) | [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki)
+  - [🌐 Live Demo](https://fsd03-webdev1-wearfamily-jsd-1.onrender.com/) | [💻 Source Code](https://github.com/xuanwgit/FSD04_WebDev1_WearFamily_deployed) | [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki)
 
 ### KeepThemBusy Educational Platform
 - **Technology Stack:** HTML5, JavaScript, CSS3

@@ -45,7 +45,7 @@ A full-featured e-commerce platform using Laravel/PHP with MVC architecture.
 - Bootstrap
 - Stripe Integration
 
-[🌐 Live Demo](https://wearfamily.herokuapp.com/) | [💻 Source Code](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD) | [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki)
+[🌐 Live Demo](https://fsd03-webdev1-wearfamily-jsd-1.onrender.com/) | [💻 Source Code](https://github.com/xuanwgit/FSD04_WebDev1_WearFamily_deployed) | [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki)
 
 [View Project Details](/projects/#wearfamily)
 
