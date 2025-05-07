@@ -54,7 +54,7 @@ permalink: /projects/
 - **Project Links:**
   - [🌐 Live Demo](https://wearfamily.herokuapp.com/) - Experience the application
   - [💻 Source Code](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD) - View the project on GitHub
-  - [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki) - Project documentation and features
+  - [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki) - Project documentation and features (Updated)
 
 ### KeepThemBusy Educational Platform
 - **Technology Stack:** HTML5, JavaScript, CSS3
