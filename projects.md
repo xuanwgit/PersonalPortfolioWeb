@@ -41,6 +41,7 @@ permalink: /projects/
   - [📝 Documentation](https://xuanwgit.github.io/Spitifo-Music-App-React/) - Project overview and features
 
 ### WearFamily E-Commerce Platform
+![WearFamily Demo](/assets/images/werefamily-homepage.jpg)
 - **Technology Stack:** PHP (Laravel), Blade, CSS, JavaScript, Vue.js, Docker
 - **Description:** Capstone project for Web Development 1 class - A full-stack e-commerce application built with PHP and Laravel framework following MVC architecture.
 - **Key Features:**
@@ -52,9 +53,7 @@ permalink: /projects/
   - User authentication
   - Product management
 - **Project Links:**
-  - [🌐 Live Demo](https://wearfamily.herokuapp.com/) - Experience the application
-  - [💻 Source Code](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD) - View the project on GitHub
-  - [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki) - Project documentation and features (Updated)
+  - [🌐 Live Demo](https://wearfamily.herokuapp.com/) | [💻 Source Code](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD) | [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki)
 
 ### KeepThemBusy Educational Platform
 - **Technology Stack:** HTML5, JavaScript, CSS3

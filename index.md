@@ -37,7 +37,7 @@ I build modern web applications using MERN stack, Laravel, and cloud technologie
 [🌐 Live Demo](https://xuanwgit.github.io/Spitifo-Music-App-React/) | [💻 Source Code](https://github.com/xuanwgit/Spitifo-Music-App-React) | [📝 Documentation](https://xuanwgit.github.io/Spitifo-Music-App-React/)
 
 ### WearFamily E-Commerce
-![WearFamily Preview](/assets/images/wearfamily-preview.jpg)
+![WearFamily Demo](/assets/images/werefamily-homepage.jpg)
 A full-featured e-commerce platform using Laravel/PHP with MVC architecture.
 - Laravel
 - PHP
