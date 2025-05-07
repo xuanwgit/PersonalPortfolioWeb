@@ -51,7 +51,10 @@ permalink: /projects/
   - Shopping cart system
   - User authentication
   - Product management
-- **[View Project on GitHub](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD)**
+- **Project Links:**
+  - [🌐 Live Demo](https://wearfamily.herokuapp.com/) - Experience the application
+  - [💻 Source Code](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD) - View the project on GitHub
+  - [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki) - Project documentation and features
 
 ### KeepThemBusy Educational Platform
 - **Technology Stack:** HTML5, JavaScript, CSS3
