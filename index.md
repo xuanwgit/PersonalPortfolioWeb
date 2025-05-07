@@ -45,6 +45,8 @@ A full-featured e-commerce platform using Laravel/PHP with MVC architecture.
 - Bootstrap
 - Stripe Integration
 
+[🌐 Live Demo](https://wearfamily.herokuapp.com/) | [💻 Source Code](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD) | [📝 Documentation](https://github.com/xuanwgit/FSD03_WebDev1_WearFamily_JSD/wiki)
+
 [View Project Details](/projects/#wearfamily)
 
 ### KeepThemBusy Educational Platform
